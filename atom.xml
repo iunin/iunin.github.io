@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-06-25T03:17:52.497Z</updated>
+  <updated>2022-06-26T04:09:53.855Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>axios二次封装</title>
+    <link href="http://example.com/2022/05/15/axios-de-er-ci-feng-zhuang/"/>
+    <id>http://example.com/2022/05/15/axios-de-er-ci-feng-zhuang/</id>
+    <published>2022-05-15T03:39:11.000Z</published>
+    <updated>2022-06-26T04:09:53.855Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;二次封装axios&quot;&gt;&lt;a href=&quot;#二次封装axios&quot; class=&quot;headerlink&quot; title=&quot;二次封装axios&quot;&gt;&lt;/a&gt;二次封装axios&lt;/h3&gt;&lt;p&gt;axios：axios是一个基于 promise 的 HTTP</summary>
+        
+      
+    
+    
+    
+    
+    <category term="网络请求" scheme="http://example.com/tags/%E7%BD%91%E7%BB%9C%E8%AF%B7%E6%B1%82/"/>
+    
+    <category term="axios" scheme="http://example.com/tags/axios/"/>
+    
+  </entry>
   
   <entry>
     <title>垂直水平居中</title>
@@ -85,6 +110,8 @@
     
     
     
+    <category term="axios" scheme="http://example.com/tags/axios/"/>
+    
     <category term="vue" scheme="http://example.com/tags/vue/"/>
     
     <category term="vue-vli" scheme="http://example.com/tags/vue-vli/"/>
@@ -92,8 +119,6 @@
     <category term="vuex" scheme="http://example.com/tags/vuex/"/>
     
     <category term="vue-router" scheme="http://example.com/tags/vue-router/"/>
-    
-    <category term="axios" scheme="http://example.com/tags/axios/"/>
     
   </entry>
   
