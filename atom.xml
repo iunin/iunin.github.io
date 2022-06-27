@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-06-27T03:08:49.559Z</updated>
+  <updated>2022-06-27T13:41:12.404Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Promise总结</title>
+    <link href="http://example.com/2022/05/29/promise-zong-jie/"/>
+    <id>http://example.com/2022/05/29/promise-zong-jie/</id>
+    <published>2022-05-29T07:18:44.000Z</published>
+    <updated>2022-06-27T13:41:12.404Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;Promise的基本使用&quot;&gt;&lt;a href=&quot;#Promise的基本使用&quot; class=&quot;headerlink&quot; title=&quot;Promise的基本使用&quot;&gt;&lt;/a&gt;Promise的基本使用&lt;/h3&gt;&lt;p&gt;直接使用 &lt;code&gt;new</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Promise" scheme="http://example.com/tags/Promise/"/>
+    
+  </entry>
   
   <entry>
     <title>JS数组常用方法总结</title>
