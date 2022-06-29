@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-06-29T02:09:33.768Z</updated>
+  <updated>2022-06-29T08:00:49.124Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>JS常用函数方法封装</title>
+    <link href="http://example.com/2022/06/16/js-chang-yong-han-shu-fang-fa-feng-zhuang/"/>
+    <id>http://example.com/2022/06/16/js-chang-yong-han-shu-fang-fa-feng-zhuang/</id>
+    <published>2022-06-16T13:55:16.000Z</published>
+    <updated>2022-06-29T08:00:49.124Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;常用的前端JavaScript方法封装&quot;&gt;&lt;a href=&quot;#常用的前端JavaScript方法封装&quot; class=&quot;headerlink&quot; title=&quot;常用的前端JavaScript方法封装&quot;&gt;&lt;/a&gt;常用的前端JavaScript方法封装&lt;/h3&gt;&lt;h4</summary>
+        
+      
+    
+    
+    
+    
+    <category term="JS基础" scheme="http://example.com/tags/JS%E5%9F%BA%E7%A1%80/"/>
+    
+    <category term="JS常用方法" scheme="http://example.com/tags/JS%E5%B8%B8%E7%94%A8%E6%96%B9%E6%B3%95/"/>
+    
+  </entry>
   
   <entry>
     <title>css3中transfrom总结</title>
